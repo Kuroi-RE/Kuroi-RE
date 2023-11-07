@@ -11,7 +11,7 @@
 Someone who love about a code. 
     
 ## 🔗 Links  
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ramzy.great-site.com/)   
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ram30-gg.vercel.app/)   
 
 [![twitter](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuroi-RE/)  
     
