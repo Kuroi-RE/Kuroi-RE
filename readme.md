@@ -8,7 +8,7 @@
 </p>
            
 ## 🚀 About Me  
-I'm a student from a university in Indonesia.
+Someone who love about a code. 
     
 ## 🔗 Links  
 [![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ramzy.great-site.com/)   
