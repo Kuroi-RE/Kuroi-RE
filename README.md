@@ -1,4 +1,7 @@
-<h2 align="left">Hi There🚀! My name is Ramm, this my ugly repo __</h2>
+<h2 align="left">Hi There🚀! My name is Ramm</h2>
+<p>🧑‍🎓 Telkom University<br>
+🧑‍💻 Web Developer
+</p>
 
 ###
 
