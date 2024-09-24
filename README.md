@@ -1,6 +1,7 @@
-<h2 align="left">Hi There🚀! My name is Ramm</h2>
+<h2 align="left">Hi There🚀! My name is Satria Ramadhan</h2>
 <p>🧑‍🎓 Telkom University<br>
-🧑‍💻 Web Developer
+🧑‍💻 Mobile Developer, Web Developer, UI/UX Designer
+
 </p>
 
 ###
