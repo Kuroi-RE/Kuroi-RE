@@ -1,9 +1,4 @@
 <h2 align="left">Hi There🚀! My name is Satria Ramadhan</h2>
-<p>🧑‍🎓 Telkom University<br>
-🧑‍💻 Mobile Developer, Web Developer, UI/UX Designer
-
-</p>
-
 ###
 
 <br clear="both">
