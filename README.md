@@ -4,7 +4,7 @@
 <br clear="both">
 
 <div align="center">
-  <img align="left" height="150" src="https://avatarfiles.alphacoders.com/322/322693.png"  />
+  <img align="left" height="150" src="https://i.ibb.co.com/nkqkkCQ/IMG-20240924-212437-551.jpg"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Kuroi-RE&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuroi-RE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
