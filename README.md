@@ -1,10 +1,6 @@
-<h2 align="center">Hi There🚀! My name is Satria Ramadhan</h2>
+<h2 align="left">Hi There🚀! My name is Satria Ramadhan</h2>
 
 <p>I'm a passionate Software Engineer with experience in Next.js, TypeScript, and full-stack development. I love building scalable web applications, integrating third-party services (like payment gateways), and optimizing websites for speed and SEO.
-
-🔹 Currently exploring Wall Street & stock investments
-🔹 Organizing community & coding events with Pemuda Domas & RISKRE
-🔹 Building a landing page for Peoplez using React & Tailwind
 
 💡 Always open to learning, collaboration, and new challenges!
 
