@@ -4,7 +4,7 @@
 
 💡 Always open to learning, collaboration, and new challenges!
 
-📫 Let's connect: [Your LinkedIn/Twitter]</p>
+📫 Let's connect: [GIT](https://github.com/Kuroi-RE/)</p>
 
 <br clear="both">
 
