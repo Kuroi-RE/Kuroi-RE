@@ -4,7 +4,9 @@
 
 💡 Always open to learning, collaboration, and new challenges!
 
-📫 Let's connect: [GIT](https://github.com/Kuroi-RE/)</p>
+📫 Let's connect: 
+- [GIT](https://github.com/Kuroi-RE/)
+- [RESUME](https://shaa.dev/)
 
 <br clear="both">
 
